@@ -1,6 +1,7 @@
-Hi, I’m @Brent-Liu
-I’m interested in programming, singing and sleeping
-I’m currently learning React
+Hi, I’m @Brent-Liu.
+Looking for 2021 software developer engineer (new grad)  
+
+
 How to reach me: lcncufe@gmail.com
 
 <!---
