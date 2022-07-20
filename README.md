@@ -1,5 +1,5 @@
 Hi, I’m @Brent-Liu.
-Looking for 2021 software developer engineer (new grad)  
+Looking for 2022 software developer engineer (new grad)  
 
 
 How to reach me: lcncufe@gmail.com
