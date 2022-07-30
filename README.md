@@ -1,6 +1,9 @@
-Hi, I’m @Brent-Liu.
-I am curerntly a master student in Rice Unviersity
+Hi, I’m @Brent-Liu.  
+
+I am curerntly a master student in Rice Unviersity  
+
 Looking for 2022 software developer engineer (new grad)  
+
 
 
 How to reach me: lcncufe@gmail.com
