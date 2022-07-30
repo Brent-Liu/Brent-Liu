@@ -1,4 +1,5 @@
 Hi, I’m @Brent-Liu.
+I am curerntly a master student in Rice Unviersity
 Looking for 2022 software developer engineer (new grad)  
 
 
