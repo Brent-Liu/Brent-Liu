@@ -1,6 +1,6 @@
 Hi, I’m @Brent-Liu.  
 
-I am curerntly a master student in Rice Unviersity  
+Alumni in Rice Unviersity and Central University of Finance and Economics
 
 
 
