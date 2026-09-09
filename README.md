@@ -15,4 +15,4 @@ I enjoy building reliable distributed systems and exploring the infrastructure b
 - **PerceptSafe** — PyTorch multi-frame LiDAR semantic segmentation on the Waymo Open Dataset
 
 📍 Seattle / Houston  
-🔗 LinkedIn: [ [Chenning Liu](你的LinkedIn链接)](https://www.linkedin.com/in/chenning-liu/)
+🔗 LinkedIn: https://www.linkedin.com/in/chenning-liu/
